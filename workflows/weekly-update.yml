@@ -1,0 +1,23 @@
+name: Weekly Quantum Update
+
+on:
+  schedule:
+    - cron: '0 9 * * 0'  # Every Sunday ~10:00 CET / 09:00 UTC
+
+jobs:
+  append-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Append weekly log
+        run: |
+          echo -e "\n## Week of $(date +'%B %d, %Y')" >> updates/weekly-log.md
+          echo "- Auto quantum spark: $(shuf -n 1 <<<'Pet discovered quantum superposition nap' 'New feature idea: Entangled belly rubs' 'Mood wave function collapsed into chaos' 'Tunneling zoomies level increased')" >> updates/weekly-log.md
+
+      - name: Commit & push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'updates/weekly-log.md'
+          message: 'Weekly auto-update – quantum inspiration drop'
+          push: true
