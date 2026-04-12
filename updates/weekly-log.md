@@ -13,3 +13,9 @@
   When you give one pet a belly rub, any entangled pet instantly starts purring in perfect sync — even if they're on the other side of the multiverse. Side effect: random spontaneous zoomies in unrelated pets.
   - Discovered a fun glitch: Pets in **superposition sleep mode** can simultaneously be "adorable" and "plotting world domination". Observation collapses it to one or the other (usually the cute one... usually).
 - Minor balance tweak: Increased the probability of "treat wave function collapse" resulting in actual snacks instead of existential disappointment.
+## Week of April 12, 2026
+- New feature idea: **Decoherence Detector** — a diagnostic tool that alerts you when your pet is about to collapse from superposition to a definite state. Useful for catching mood swings before they happen.
+- Experiment result: Running three Schrödinger's fish tanks in parallel produced a 73% happiness boost across all digital pets. The remaining 27% were left in an existential limbo but reported feeling "philosophically richer."
+- Minor bugfix: Fixed issue where quantum tunneling pets would occasionally phase through walls and get stuck in the walls. They now bounce back with a "sorry!" emote.
+
+(We'll append one small line every week)
