@@ -19,3 +19,6 @@
 - Minor bugfix: Fixed issue where quantum tunneling pets would occasionally phase through walls and get stuck in the walls. They now bounce back with a "sorry!" emote.
 
 (We'll append one small line every week)
+
+## Week of April 19, 2026
+- Automated weekly update from Zo Computer 💫
