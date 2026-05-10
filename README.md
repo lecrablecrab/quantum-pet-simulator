@@ -16,5 +16,5 @@ Pets behave according to quantum rules instead of classical ones. Observation co
 - [Release Notes](./releases/)
 - [Weekly Updates](./updates/weekly-log.md)
 
-Last updated: April 27, 2026  
+
 Made with ❤️ and too much coffee
