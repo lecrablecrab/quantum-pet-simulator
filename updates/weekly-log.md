@@ -65,3 +65,7 @@
 ## Week of June 28, 2026
 - New feature idea: **Schrödinger's Belly Rub** — your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
 - Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
+
+## Week of July 05, 2026
+- Bugfix: Fixed critical issue where pets in superposition would occasionally clone themselves. Now they properly destructively observe instead. Some pets filed complaints about their collapsed autonomy.
+- Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
