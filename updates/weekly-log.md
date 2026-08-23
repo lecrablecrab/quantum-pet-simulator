@@ -93,3 +93,7 @@
 ## Week of August 16, 2026
 - New feature idea: **Quantum Zoomie Entanglement** — when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
 - Finding: When quantum pets dream, they occasionally phase into adjacent dimensions. One pet returned speaking fluent probabilities.
+
+## Week of August 23, 2026
+- Bugfix: Pets were quantum tunneling into neighbors' houses. They now have a probability field that bounces them back with a 'wrong timeline!' emote. One pet still tries weekly.
+- Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
