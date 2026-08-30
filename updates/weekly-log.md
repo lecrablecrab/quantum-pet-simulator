@@ -97,3 +97,7 @@
 ## Week of August 23, 2026
 - Bugfix: Pets were quantum tunneling into neighbors' houses. They now have a probability field that bounces them back with a 'wrong timeline!' emote. One pet still tries weekly.
 - Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
+
+## Week of August 30, 2026
+- Bugfix: Pets were quantum tunneling into neighbors' houses. They now have a probability field that bounces them back with a 'wrong timeline!' emote. One pet still tries weekly.
+- Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
