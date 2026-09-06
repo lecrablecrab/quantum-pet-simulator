@@ -101,3 +101,7 @@
 ## Week of August 30, 2026
 - Bugfix: Pets were quantum tunneling into neighbors' houses. They now have a probability field that bounces them back with a 'wrong timeline!' emote. One pet still tries weekly.
 - Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
+
+## Week of September 06, 2026
+- New feature idea: **Schrödinger's Belly Rub** — your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
+- Discovery: Quantum pets can sense when you're about to work from home and immediately collapse into 'need attention' state.
