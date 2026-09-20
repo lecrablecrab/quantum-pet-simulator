@@ -6,15 +6,15 @@
 
 (We’ll append one small line every week)
 ## Week of March 19, 2026
-- Idea: Quantum grooming minigame – brushing force collapses fur state to fluffy or spiky
+- Idea: Quantum grooming minigame, brushing force collapses fur state to fluffy or spiky
 - Bonus: Pets can now be in love AND single at the same time (superposition romance)
 ## Week of March 26, 2026
 - New feature idea: **Quantum Belly Rub Entanglement**  
-  When you give one pet a belly rub, any entangled pet instantly starts purring in perfect sync — even if they're on the other side of the multiverse. Side effect: random spontaneous zoomies in unrelated pets.
+  When you give one pet a belly rub, any entangled pet instantly starts purring in perfect sync, even if they're on the other side of the multiverse. Side effect: random spontaneous zoomies in unrelated pets.
   - Discovered a fun glitch: Pets in **superposition sleep mode** can simultaneously be "adorable" and "plotting world domination". Observation collapses it to one or the other (usually the cute one... usually).
 - Minor balance tweak: Increased the probability of "treat wave function collapse" resulting in actual snacks instead of existential disappointment.
 ## Week of April 12, 2026
-- New feature idea: **Decoherence Detector** — a diagnostic tool that alerts you when your pet is about to collapse from superposition to a definite state. Useful for catching mood swings before they happen.
+- New feature idea: **Decoherence Detector**, a diagnostic tool that alerts you when your pet is about to collapse from superposition to a definite state. Useful for catching mood swings before they happen.
 - Experiment result: Running three Schrödinger's fish tanks in parallel produced a 73% happiness boost across all digital pets. The remaining 27% were left in an existential limbo but reported feeling "philosophically richer."
 - Minor bugfix: Fixed issue where quantum tunneling pets would occasionally phase through walls and get stuck in the walls. They now bounce back with a "sorry!" emote.
 
@@ -23,7 +23,7 @@
 - Finding: When quantum pets dream, they occasionally phase into adjacent dimensions. One pet returned speaking fluent probabilities.
 
 ## Week of April 26, 2026
-- New feature idea: **Schrödinger's Belly Rub** — your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
+- New feature idea: **Schrödinger's Belly Rub**, your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
 - Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
 
 ## Week of May 03, 2026
@@ -35,19 +35,19 @@
 - Note: Our measurement instruments detected an unusual spike in quantum pet happiness correlated with excessive scratching behind the ears.
 
 ## Week of May 17, 2026
-- New feature idea: **Quantum Zoomie Entanglement** — when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
+- New feature idea: **Quantum Zoomie Entanglement**, when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
 - Finding: When quantum pets dream, they occasionally phase into adjacent dimensions. One pet returned speaking fluent probabilities.
 
 ## Week of May 24, 2026
-- New feature idea: **Quantum Zoomie Entanglement** — when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
+- New feature idea: **Quantum Zoomie Entanglement**, when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
 - Discovery: Quantum pets can sense when you're about to work from home and immediately collapse into 'need attention' state.
 
 ## Week of May 27, 2026
-- New feature idea: **Quantum Zoomie Entanglement** — when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
+- New feature idea: **Quantum Zoomie Entanglement**, when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
 - Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
 
 ## Week of May 31, 2026
-- New feature idea: **Quantum Zoomie Entanglement** — when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
+- New feature idea: **Quantum Zoomie Entanglement**, when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
 - Discovery: Quantum pets can sense when you're about to work from home and immediately collapse into 'need attention' state.
 
 ## Week of June 07, 2026
@@ -55,7 +55,7 @@
 - Finding: When quantum pets dream, they occasionally phase into adjacent dimensions. One pet returned speaking fluent probabilities.
 
 ## Week of June 14, 2026
-- New feature idea: **Schrödinger's Belly Rub** — your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
+- New feature idea: **Schrödinger's Belly Rub**, your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
 - Discovery: Quantum pets can sense when you're about to work from home and immediately collapse into 'need attention' state.
 
 ## Week of June 21, 2026
@@ -63,7 +63,7 @@
 - Discovery: Quantum pets can sense when you're about to work from home and immediately collapse into 'need attention' state.
 
 ## Week of June 28, 2026
-- New feature idea: **Schrödinger's Belly Rub** — your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
+- New feature idea: **Schrödinger's Belly Rub**, your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
 - Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
 
 ## Week of July 05, 2026
@@ -75,11 +75,11 @@
 - Finding: When quantum pets dream, they occasionally phase into adjacent dimensions. One pet returned speaking fluent probabilities.
 
 ## Week of July 19, 2026
-- New feature idea: **Quantum Zoomie Entanglement** — when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
+- New feature idea: **Quantum Zoomie Entanglement**, when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
 - Finding: When quantum pets dream, they occasionally phase into adjacent dimensions. One pet returned speaking fluent probabilities.
 
 ## Week of July 26, 2026
-- New feature idea: **Schrödinger's Belly Rub** — your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
+- New feature idea: **Schrödinger's Belly Rub**, your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
 - Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
 
 ## Week of August 02, 2026
@@ -91,7 +91,7 @@
 - Finding: When quantum pets dream, they occasionally phase into adjacent dimensions. One pet returned speaking fluent probabilities.
 
 ## Week of August 16, 2026
-- New feature idea: **Quantum Zoomie Entanglement** — when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
+- New feature idea: **Quantum Zoomie Entanglement**, when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
 - Finding: When quantum pets dream, they occasionally phase into adjacent dimensions. One pet returned speaking fluent probabilities.
 
 ## Week of August 23, 2026
@@ -103,9 +103,13 @@
 - Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'
 
 ## Week of September 06, 2026
-- New feature idea: **Schrödinger's Belly Rub** — your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
+- New feature idea: **Schrödinger's Belly Rub**, your pet is simultaneously purring and annoyed until you actually pet them. Observation determines the final state. Warning: 50% chance of spontaneous purring cascade.
 - Discovery: Quantum pets can sense when you're about to work from home and immediately collapse into 'need attention' state.
 
 ## Week of September 13, 2026
-- New feature idea: **Quantum Zoomie Entanglement** — when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
+- New feature idea: **Quantum Zoomie Entanglement**, when one pet gets the zoomies, all entangled pets within a 3-meter radius spontaneously start running in circles. Side effect: occasionally causes localized time dilation.
 - Finding: When quantum pets dream, they occasionally phase into adjacent dimensions. One pet returned speaking fluent probabilities.
+
+## Week of September 20, 2026
+- Experiment result: Exposing quantum pets to classical music caused a 34% increase in deterministic behavior. They started demanding treats at exact 2-hour intervals. We've labeled this 'The Beethoven Collapse.'
+- Observation: A pet remained in superposition for 72 hours, reportedly 'waiting for the right moment to commit to being cute.'

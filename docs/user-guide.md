@@ -1,4 +1,4 @@
-# Quantum Pet Simulator – User Guide (v1.0 – Fictional)
+# Quantum Pet Simulator, User Guide (v1.0, Fictional)
 
 1. **Adopt Your Pet**  
    Choose cat, dog, or exotic (quantum bunny?). They start in superposition.
@@ -14,4 +14,4 @@
 4. **Care Tips**  
    Keep uncertainty low with treats, or embrace chaos for bonus XP.
 
-Enjoy responsibly — quantum pets are not responsible for reality glitches.
+Enjoy responsibly, quantum pets are not responsible for reality glitches.

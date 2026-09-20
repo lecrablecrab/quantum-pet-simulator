@@ -7,7 +7,7 @@
   Pets can instantly appear on the other side of walls or furniture. Great for surprise cuddles (or chaos).
 
 - **Entanglement Playdates**  
-  Link two pets — when one feels happy, the other instantly does too, no matter the distance.
+  Link two pets, when one feels happy, the other instantly does too, no matter the distance.
 
 - **Wave Function Collapse Feeding**  
   Food probability wave collapses into "eaten" or "ignored" only when you look.
